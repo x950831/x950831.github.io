@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="咖啡杯">
+  <rect width="64" height="64" rx="15" fill="#8a5a3b"/>
+  <g fill="none" stroke="#f3e2c7" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 28h23v10.5A11.5 11.5 0 0 1 27.5 50h0A11.5 11.5 0 0 1 16 38.5V28Z"/>
+    <path d="M39 31.5h3.5a5.75 5.75 0 0 1 0 11.5H39"/>
+    <path d="M21 17.5v4M28 15.5v6M35 17.5v4"/>
+  </g>
+</svg>
